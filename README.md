@@ -1,4 +1,4 @@
-# 🛡️ LogSentinel
+# 🛡️ LogReeader
 
 > **AI-Powered Security Log Analyzer** — Detect anomalies, get AI insights, and monitor your system — all locally, all private.
 
